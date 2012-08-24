@@ -4,6 +4,17 @@ Author: Ryan Imel
 Template: twentyeleven
 */
 
+/* Custom Grind */
+
+#site-title a {
+	background: url('images/logo.png') left top no-repeat;
+	display: block;
+	height: 185px;
+	text-indent: -999em;
+	width: 200px;
+}
+
+
 /* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
 -------------------------------------------------------------- */
 
