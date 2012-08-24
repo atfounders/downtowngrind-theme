@@ -47,6 +47,10 @@ Template: twentyeleven
 	width: 500px !important;
 }
 
+.edit-link {
+	display: none;
+}
+
 
 /* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
 -------------------------------------------------------------- */
@@ -137,6 +141,7 @@ body {
 /* Singular */
 .singular #primary {
 	margin: 0;
+	width: 700px;
 }
 .singular #content,
 .left-sidebar.singular #content {
@@ -149,7 +154,7 @@ body {
 .singular footer.entry-meta,
 .singular #comments-title {
 	margin: 0 auto;
-	width: 68.9%;
+	width: 98.9%;
 }
 
 /* Attachments */
@@ -1126,7 +1131,7 @@ article.format-status .entry-content {
 	position: relative;
 }
 .singular.page .hentry {
-	padding: 3.5em 0 0;
+	padding-top: 0;
 }
 .singular .entry-title {
 	color: #000;
