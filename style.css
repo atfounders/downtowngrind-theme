@@ -2441,6 +2441,9 @@ p.comment-form-comment {
 		top: 0;
 		width: 100% !important;
 	}
+	.singular #primary {
+		width: 100% !important;
+	}
 	#site-title a {
 		font-size: 24px;
 	}
