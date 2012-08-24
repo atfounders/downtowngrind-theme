@@ -6,6 +6,10 @@ Template: twentyeleven
 
 /* Custom Grind */
 
+body {
+	background: url('http://downtownfw.files.wordpress.com/2012/02/fort-wayne-downtown-changes.jpg') center top no-repeat #000 !important;
+}
+
 #site-title a {
 	background: url('images/logo.png') left top no-repeat;
 	display: block;
