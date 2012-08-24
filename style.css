@@ -22,7 +22,7 @@ Template: twentyeleven
 }
 
 #hours-address p {
-	margin: 0;
+	margin: 0 0 12px 0;
 }
 
 #hours-address .hours {
