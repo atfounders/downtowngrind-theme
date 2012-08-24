@@ -76,8 +76,8 @@
 			</hgroup>
 			
 			<div id="hours-address">
-				<p class="hours">This is for the hours.</p>
-				<p class="address">For the address.</p>
+				<p class="hours"><strong>Monday &mdash; Friday:</strong> 6:30am &mdash; 6:30pm<br /><strong>Saturday:</strong> 8:00am &mdash; 2:00pm<br />Closed Sunday</p>
+				<p class="address"><em>200 Pearl Street, Fort Wayne Indiana</em></p>
 			</div><!-- #hours-address -->
 
 			<nav id="access" role="navigation">
