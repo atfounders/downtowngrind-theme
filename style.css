@@ -2429,6 +2429,18 @@ p.comment-form-comment {
 	body, input, textarea {
 		font-size: 13px;
 	}
+	#hours-address {
+		position: relative;
+		right: 0;
+		top: 0;
+		margin: 45px;
+	}
+	#access {
+		position: relative;
+		right: 0;
+		top: 0;
+		width: 100% !important;
+	}
 	#site-title a {
 		font-size: 24px;
 	}
